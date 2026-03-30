@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "THANK U",
+  "base_artist": "ATEEZ",
+  "createdAt": "2026-03-30T09:55:48.480990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_thank_u,_next_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thank U",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/02_Thank_U_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thank U for the Music",
+      "artist": "Thomas D",
+      "has_synced": true,
+      "path": "select/03_Thank_U_for_the_Music_Thomas_D.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Thank U",
+      "artist": "Future",
+      "has_synced": true,
+      "path": "select/04_I_Thank_U_Future.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thank U",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/05_Thank_U_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thank U Mum (4 Everything You Did)",
+      "artist": "St. Germain",
+      "has_synced": false,
+      "path": "select/06_Thank_U_Mum_(4_Everything_You_Did)_St._Germain.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thank U (Live)",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/07_Thank_U_(Live)_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_thank_u,_next_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "thank u, next - live",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/09_thank_u,_next_-_live_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thank U",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/10_Thank_U_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "thank u, next (Instrumental)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_thank_u,_next_(Instrumental)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thank U Mum (4 Everything You Did)",
+      "artist": "St Germain",
+      "has_synced": false,
+      "path": "select/12_Thank_U_Mum_(4_Everything_You_Did)_St_Germain.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thank U Very Much",
+      "artist": "The Scaffold",
+      "has_synced": false,
+      "path": "select/13_Thank_U_Very_Much_The_Scaffold.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thank U Next.",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/14_Thank_U_Next._Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Somebody to Thank",
+      "artist": "Logan Mize",
+      "has_synced": false,
+      "path": "select/15_Somebody_to_Thank_Logan_Mize.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thank God",
+      "artist": "Kane Brown feat. Katelyn Brown",
+      "has_synced": true,
+      "path": "select/16_Thank_God_Kane_Brown_feat._Katelyn_Brown.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Thank God",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/17_Thank_God_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Thank God For Believers",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/18_Thank_God_For_Believers_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Thank God For Believers (Album Version)",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/19_Thank_God_For_Believers_(Album_Version)_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Thank God For Kids",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/20_Thank_God_For_Kids_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Thank God For Kids (Album Version)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": false,
+      "path": "select/21_Thank_God_For_Kids_(Album_Version)_The_Oak_Ridge_Boys.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Thank God For The Radio",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/22_Thank_God_For_The_Radio_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Thank God for the Radio",
+      "artist": "Kendalls",
+      "has_synced": false,
+      "path": "select/23_Thank_God_for_the_Radio_Kendalls.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Thank God for You",
+      "artist": "Sawyer Brown",
+      "has_synced": true,
+      "path": "select/24_Thank_God_for_You_Sawyer_Brown.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Thank God I'm a Country Boy",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/25_Thank_God_I'm_a_Country_Boy_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Thank God I'm a Country Boy (Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974)",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/26_Thank_God_I'm_a_Country_Boy_(Live_at_the_Universal_Amphitheatre,_Los_Angeles,_CA_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Thank Me Now",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/27_Thank_Me_Now_Drake.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Thank God (Interlude)",
+      "artist": "YG feat. Big TC & RJ",
+      "has_synced": true,
+      "path": "select/28_Thank_God_(Interlude)_YG_feat._Big_TC_&_RJ.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Thank God (Interlude) (Feat. Big TC, RJ)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/29_Thank_God_(Interlude)_(Feat._Big_TC,_RJ)_YG.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Don't All Thank Me At Once",
+      "artist": "The Loud Family",
+      "has_synced": false,
+      "path": "select/30_Don't_All_Thank_Me_At_Once_The_Loud_Family.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THANK U",
+      "artist": "ATEEZ",
+      "has_synced": false,
+      "path": "select/pl_01_THANK_U_ATEEZ.txt"
+    }
+  ]
+}
